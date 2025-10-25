@@ -1,14 +1,14 @@
 <!-- Header -->
-<h1 align="center">Asif Ahmad</h1>
-<h3 align="center">Backend Developer • Digital Marketer • Graphics Designer</h3>
+<h1 align="center">Md. Toufiquzzaman</h1>
+<h3 align="center">Backend Developer</h3>
 
 ---
 
 ## 🧠 About Me
 - 💡 Problem solver | Web Developer | Graphics Designer
 - 📍 Based in: Bangladesh  
-- 📫 Reach me at: asifahamd280820ttp@gmail.com  
-- 🌐 Portfolio: https://asifahmad28.github.io/asif-ahmad-portfolio/
+- 📫 Reach me at: toufiquzzaman777@gmail.com  
+- 🌐 Portfolio: 
 
 ---
 
