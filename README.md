@@ -5,7 +5,7 @@
 ---
 
 ## 🧠 About Me
-- 💡 Problem solver | Web Developer | Graphics Designer
+- 💡 Problem solver | Web Developer 
 - 📍 Based in: Bangladesh  
 - 📫 Reach me at: toufiquzzaman777@gmail.com  
 - 🌐 Portfolio: 
@@ -16,7 +16,7 @@
 
 | Category         | Tools & Technologies                                                                 |
 |------------------|---------------------------------------------------------------------------------------|
-| 📱 Mobile         | ![Java](https://img.shields.io/badge/Java-007396?logo=java&logoColor=white) ![Django](https://img.shields.io/badge/Django-092E20?logo=django&logoColor=white) ![Android](https://img.shields.io/badge/Android-3DDC84?logo=android&logoColor=white) |
+| 📱 Mobile         | ![Java](https://img.shields.io/badge/Java-007396?logo=java&logoColor=white)  ![Android](https://img.shields.io/badge/Android-3DDC84?logo=android&logoColor=white) |
 | 🌐 Web            | ![HTML5](https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=white) |
 | ⚡ Backend         | ![Java](https://img.shields.io/badge/Java-007396?logo=java&logoColor=white) ![Django](https://img.shields.io/badge/Django-092E20?logo=django&logoColor=white) |
 | 💾 Database        | ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?logo=mongodb&logoColor=white)  ![MySQL](https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=white) |
