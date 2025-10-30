@@ -1,6 +1,6 @@
 <!-- Header -->
 <h1 align="center">Md. Toufiquzzaman</h1>
-<h3 align="center">Backend Developer</h3>
+<h3 align="center">Full Stack Developer</h3>
 
 ---
 
