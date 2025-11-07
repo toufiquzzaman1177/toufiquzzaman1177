@@ -12,7 +12,17 @@
 
 ---
 
-
+## My Tech! 
+- **Languages** - `C++` `Golang` `Java` `Javascript` `SQL` 
+- **Backend** - `Spring Boot` `Node.js` `Express.js`
+- **Frontend** - `React`
+- **Database** - `PostgreSQL` `OracleDB` `MongoDB`
+- **Data Stores** - `Redis` `Kafka`
+- **Tools** - `Git` `Github workflow`
+- **Testing** - `JUnit5` `Mockito` `Gatling` `Testify` `Test Container`
+- **Infra** - `Docker` `Kubernetes` `Linux`
+- **Cloud** - `Azure Cloud Service`
+- **Productivity** - `Jira` `MS Powerpoint` `Adobe Photoshop`
 ---
 
 ## 📊 GitHub Stats
