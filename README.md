@@ -13,16 +13,12 @@
 ---
 
 ## My Tech! 
-- **Languages** - `C++` `Golang` `Java` `Javascript` `SQL` 
-- **Backend** - `Spring Boot` `Node.js` `Express.js`
-- **Frontend** - `React`
-- **Database** - `PostgreSQL` `OracleDB` `MongoDB`
-- **Data Stores** - `Redis` `Kafka`
+- **Languages** - `C` `C++` `PHP` `Java` `SQL` 
+- **Backend** - `Spring Boot` `Laravel`
+- **Frontend** - `HTML5` `CSS3`  
+- **Database** - `MySQL` `PostgreSQL` 
 - **Tools** - `Git` `Github workflow`
-- **Testing** - `JUnit5` `Mockito` `Gatling` `Testify` `Test Container`
-- **Infra** - `Docker` `Kubernetes` `Linux`
-- **Cloud** - `Azure Cloud Service`
-- **Productivity** - `Jira` `MS Powerpoint` `Adobe Photoshop`
+- **Productivity** - `MS Office` `Over Leaf` `Canva Pro`
 ---
 
 ## 📊 GitHub Stats
