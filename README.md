@@ -22,14 +22,8 @@
 ---
 
 ## 📊 GitHub Stats
-![Your Name's GitHub stats](https://github-readme-stats.vercel.app/api?username=YourUserName&show_icons=true&theme=tokyonight)
- 
----
 
-
-## Github Overview
-
-<img align="left" alt="TamimEhsan's Github Stats" src="https://github-readme-stats.vercel.app/api?username=TamimEhsan&show_icons=true" />   &nbsp;
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=TamimEhsan&layout=compact)](https://github.com/anuraghazra/github-readme-stats) 
+<img align="left" alt="Md. Toufiquzzaman's Github Stats" src="https://github-readme-stats.vercel.app/api?username=toufiquzzaman1177&show_icons=true" />   &nbsp;
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=toufiquzzaman1177&layout=compact)](https://github.com/anuraghazra/github-readme-stats) 
 
  <!-- ![Top topics](https://sue445-github-readme-stats.vercel.app/api/top-topics/?username=TamimEhsan) -->
