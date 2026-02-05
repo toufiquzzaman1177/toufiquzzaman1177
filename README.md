@@ -8,7 +8,7 @@
 - 💡 Problem solver | Web Developer 
 - 📍 Based in: Bangladesh  
 - 📫 Reach me at: toufiquzzaman777@gmail.com  
-- 🌐 Portfolio: [toufiq.page.gd](https://toufiq.page.gd/)
+- 🌐 Portfolio: https://toufiq.page.gd/
 
 ---
 
