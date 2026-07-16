@@ -15,7 +15,7 @@
 ## My Tech! 
 - **Languages** - `C` `C++` `PHP` `Java` `SQL` 
 - **Backend** - `Spring Boot` `Laravel`
-- **Frontend** - `HTML5` `CSS3`  
+- **Frontend** - `HTML5` `CSS3`  `JavaScript`
 - **Database** - `MySQL` `PostgreSQL` 
 - **Tools** - `Git` `Github workflow`
 - **Productivity** - `MS Office` `Over Leaf` `Canva Pro`
